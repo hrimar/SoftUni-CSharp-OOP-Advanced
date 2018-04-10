@@ -1,0 +1,7 @@
+cdRel ..
+
+readDb dataNew.txt
+
+display courses ascending
+
+display students descending
